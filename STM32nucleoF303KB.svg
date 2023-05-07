@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="500"
+   viewBox="0 0 105.83333 132.29167"
+   version="1.1"
+   id="svg1930"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="STM32nucleoF303KB.svg">
+  <defs
+     id="defs1924" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="199.30262"
+     inkscape:cy="232.26772"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata1927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <g
+       transform="matrix(0,0.32096567,-0.32096567,0,101.14394,194.55579)"
+       style="stroke-width:3.11559796"
+       id="g1419-7">
+      <g
+         style="stroke-width:3.11559796"
+         id="g1014-5">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#d45500;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect815-3"
+           width="296.94"
+           height="120.60215"
+           x="-27.970238"
+           y="79.659081" />
+        <g
+           style="stroke-width:3.11559796"
+           id="g915-5"
+           transform="translate(2.981967,-26.726952)">
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="-10.156241"
+             id="path817-629"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="8.2124643"
+             id="path817-3-1"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="26.581171"
+             id="path817-6-2"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="44.949883"
+             id="path817-7-7"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="63.318584"
+             id="path817-5-0"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="81.687294"
+             id="path817-35-9"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="100.05599"
+             id="path817-62-3"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="118.4247"
+             id="path817-9-6"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="136.79341"
+             id="path817-1-0"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="155.16212"
+             id="path817-2-6"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="173.53082"
+             id="path817-2-7-2"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="191.89952"
+             id="path817-2-0-6"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.68603"
+             cx="208.87349"
+             id="path817-2-6-5"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.68603"
+             cx="227.24217"
+             id="path817-2-7-2-3"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.68603"
+             cx="245.61089"
+             id="path817-2-0-6-5"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <g
+           style="stroke-width:3.11559796"
+           id="g915-9-1"
+           transform="translate(1.912888,68.291938)">
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="-10.156241"
+             id="path817-36-8"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="8.2124643"
+             id="path817-3-0-7"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="26.581171"
+             id="path817-6-6-9"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="44.949883"
+             id="path817-7-2-2"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="63.318584"
+             id="path817-5-6-0"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="81.687294"
+             id="path817-35-1-2"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="100.05599"
+             id="path817-62-8-3"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="118.4247"
+             id="path817-9-7-7"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="136.79341"
+             id="path817-1-9-5"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="155.16212"
+             id="path817-2-2-9"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="173.53082"
+             id="path817-2-7-0-2"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.46396"
+             cx="191.89952"
+             id="path817-2-0-2-2"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.44479"
+             cx="209.94257"
+             id="path817-2-2-9-3"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.44479"
+             cx="228.31128"
+             id="path817-2-7-0-2-6"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <circle
+             r="5.3453903"
+             cy="118.44479"
+             cx="246.67996"
+             id="path817-2-0-2-2-7"
+             style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <g
+           id="g2342-8"
+           transform="matrix(0.93159569,-0.93895598,0.93159569,0.93895598,-89.362269,115.36948)"
+           style="stroke-width:2.35553765">
+          <rect
+             transform="rotate(45)"
+             y="-3.3310971"
+             x="145.28253"
+             height="41.903877"
+             width="43.277775"
+             id="rect968-3-9"
+             style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:2.35553765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <text
+             id="text1423-7"
+             y="164.24469"
+             x="-38.199863"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.93227005px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.62323606"
+             xml:space="preserve"
+             transform="rotate(-45)"><tspan
+               style="fill:#ffffff;stroke-width:0.62323606"
+               y="164.24469"
+               x="-38.199863"
+               id="tspan1421-3"
+               sodipodi:role="line">STM32</tspan><tspan
+               id="tspan1425-6"
+               style="fill:#ffffff;stroke-width:0.62323606"
+               y="181.66003"
+               x="-38.199863"
+               sodipodi:role="line" /></text>
+          <text
+             id="text1423-6-1"
+             y="183.23175"
+             x="-37.91774"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.52230549px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.62323606"
+             xml:space="preserve"
+             transform="rotate(-45)"><tspan
+               id="tspan1425-9-2"
+               style="fill:#ffffff;stroke-width:0.62323606"
+               y="183.23175"
+               x="-37.91774"
+               sodipodi:role="line">F303KB</tspan></text>
+        </g>
+        <g
+           id="g2365-9"
+           transform="translate(0,11.540694)">
+          <rect
+             y="113.65311"
+             x="-38.486813"
+             height="32.60688"
+             width="26.192413"
+             id="rect968-31"
+             style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <text
+             transform="rotate(-90)"
+             id="text1452-9"
+             y="-20.488457"
+             x="-143.26434"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.30193043px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433534"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.82433534"
+               y="-20.488457"
+               x="-143.26434"
+               id="tspan1450-4"
+               sodipodi:role="line">USB</tspan></text>
+        </g>
+        <circle
+           r="5.3453908"
+           cy="296.78265"
+           cx="-43.819267"
+           id="path817-2-0-6-1"
+           style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87589455px;line-height:50.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56829739"
+           x="-285.25586"
+           y="-37.057819"
+           id="text1826"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1824"
+             x="-285.25586"
+             y="-37.057819"
+             style="stroke-width:2.56829739">PWM</tspan></text>
+        <circle
+           r="5.3453908"
+           cy="295.11722"
+           cx="-22.585299"
+           id="path817-2-7-2-7"
+           style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.11559796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87589455px;line-height:50.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56829739"
+           x="-279.69028"
+           y="-15.526026"
+           id="text1826-8"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1824-5"
+             x="-279.69028"
+             y="-15.526026"
+             style="stroke-width:2.56829739">SPI</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.82433534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 121.05616,224.75371 v 30.81006"
+           id="path2040"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.82433534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 105.23485,226.41911 v 29.14466"
+           id="path2042"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87589455px;line-height:50.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56829739"
+           x="-293.37909"
+           y="107.71362"
+           id="text1826-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1824-4"
+             x="-293.37909"
+             y="107.71362"
+             style="stroke-width:2.56829739">SDA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87589455px;line-height:1;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56829739"
+           x="-292.52985"
+           y="127.7818"
+           id="text1826-1"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1824-8"
+             x="-292.52985"
+             y="127.7818"
+             style="line-height:1;stroke-width:2.56829739">SCL</tspan><tspan
+             sodipodi:role="line"
+             x="-292.52985"
+             y="146.6577"
+             style="line-height:1;stroke-width:2.56829739"
+             id="tspan2979">(I2C)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-74.750572"
+           y="233.85054"
+           id="text1018-97-5-7-8-7-3"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-4-2-6"
+             x="-74.750572"
+             y="233.85054"
+             style="stroke-width:0.82433552">3.3V</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-75.735748"
+           y="215.21307"
+           id="text1018-97-5-7-8-7-1"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-4-2-0"
+             x="-75.735748"
+             y="215.21307"
+             style="stroke-width:0.82433552">AREF</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         id="g1142-7"
+         transform="translate(10.825157,18.735849)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660179px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433534"
+           x="-203.16711"
+           y="60.676617"
+           id="text1018-8"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-4"
+             x="-203.16711"
+             y="60.676617"
+             style="stroke-width:0.82433534">D2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.05431"
+           y="78.715385"
+           id="text1018-7-5"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-5-0"
+             x="-203.05431"
+             y="78.715385"
+             style="stroke-width:0.82433546">D3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.10593"
+           y="98.101662"
+           id="text1018-9-3"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-2-6"
+             x="-203.10593"
+             y="98.101662"
+             style="stroke-width:0.82433546">D4</tspan><tspan
+             sodipodi:role="line"
+             x="-203.10593"
+             y="116.57242"
+             style="stroke-width:0.82433546"
+             id="tspan1411-1" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.20288"
+           y="115.49546"
+           id="text1018-2-0"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-8-6"
+             x="-203.20288"
+             y="115.49546"
+             style="stroke-width:0.82433546">D5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.16763"
+           y="191.02191"
+           id="text1018-5-3"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="-203.16763"
+             y="191.02191"
+             style="stroke-width:0.82433546"
+             id="tspan1417-0">D9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.1898"
+           y="171.02515"
+           id="text1018-3-6"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="-203.1898"
+             y="171.02515"
+             style="stroke-width:0.82433546"
+             id="tspan1415-5">D8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.64864"
+           y="152.6433"
+           id="text1018-1-5"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-06-4"
+             x="-203.64864"
+             y="152.6433"
+             style="stroke-width:0.82433546">D7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-203.24152"
+           y="131.88551"
+           id="text1018-32-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="-203.24152"
+             y="131.88551"
+             style="stroke-width:0.82433546"
+             id="tspan1413-5">D6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.15175533px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-229.16896"
+           y="185.75601"
+           id="text1018-29-6-7"
+           transform="matrix(0,-0.89003913,1.1235461,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-31-5-4"
+             x="-229.16896"
+             y="185.75601"
+             style="stroke-width:0.82433552">D10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.1806736px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-228.57233"
+           y="201.71588"
+           id="text1018-94-6-5"
+           transform="matrix(0,-0.8919962,1.121081,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-7-9-2"
+             x="-228.57233"
+             y="201.71588"
+             style="stroke-width:0.82433552">D11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.17949009px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-228.17297"
+           y="217.21886"
+           id="text1018-8-3-54"
+           transform="matrix(0,-0.8919161,1.1211817,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-4-7-74"
+             x="-228.17297"
+             y="217.21886"
+             style="stroke-width:0.82433552">D12</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="translate(-2.6298815,0.6549284)"
+         id="g1194-6">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.18473339px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433546"
+           x="-81.352028"
+           y="229.50926"
+           id="text1018-6-4-9"
+           transform="matrix(0,-0.89227079,1.120736,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-1-7-3"
+             x="-81.352028"
+             y="229.50926"
+             style="stroke-width:0.82433546">D13</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="translate(-10.22409,-8.1711051)"
+         id="g1238-49">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7766037px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-84.364464"
+           y="135.87819"
+           id="text1018-97-5-20"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-6"
+             x="-84.364464"
+             y="135.87819"
+             style="stroke-width:0.82433552">A4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.226807"
+           y="117.8656"
+           id="text1018-97-5-4-8"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-5-9"
+             x="-83.226807"
+             y="117.8656"
+             style="stroke-width:0.82433552">A5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.878304"
+           y="99.108009"
+           id="text1018-97-5-2-2"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-54-6"
+             x="-83.878304"
+             y="99.108009"
+             style="stroke-width:0.82433552">A6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.765488"
+           y="80.833969"
+           id="text1018-97-5-7-6"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-49"
+             x="-83.765488"
+             y="80.833969"
+             style="stroke-width:0.82433552">A7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.904358"
+           y="205.30579"
+           id="text1018-97-5-20-2"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-6-3"
+             x="-83.904358"
+             y="205.30579"
+             style="stroke-width:0.82433552">A0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-82.766693"
+           y="188.94186"
+           id="text1018-97-5-4-8-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-5-9-5"
+             x="-82.766693"
+             y="188.94186"
+             style="stroke-width:0.82433552">A1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.418213"
+           y="171.83292"
+           id="text1018-97-5-2-2-9"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-54-6-2"
+             x="-83.418213"
+             y="171.83292"
+             style="stroke-width:0.82433552">A2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.305389"
+           y="155.20755"
+           id="text1018-97-5-7-6-2"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-49-8"
+             x="-83.305389"
+             y="155.20755"
+             style="stroke-width:0.82433552">A3</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="translate(-75.053119,-6.5284904)"
+         id="g1238-4-5">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7766037px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-83.475609"
+           y="71.624123"
+           id="text1018-97-5-3-0"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-0-48"
+             x="-83.475609"
+             y="71.624123"
+             style="stroke-width:0.82433552">VCC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-80.380661"
+           y="110.76385"
+           id="text1018-97-5-4-7-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-5-8-1"
+             x="-80.380661"
+             y="110.76385"
+             style="stroke-width:0.82433552">RST</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-82.388924"
+           y="90.19091"
+           id="text1018-97-5-2-6-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-54-8-2"
+             x="-82.388924"
+             y="90.19091"
+             style="stroke-width:0.82433552">GND</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-81.035713"
+           y="128.28079"
+           id="text1018-97-5-7-8-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-4-2"
+             x="-81.035713"
+             y="128.28079"
+             style="stroke-width:0.82433552">RAW(5V)</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="translate(-90.292459,155.75504)"
+         id="g1238-4-3-2">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7766037px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-65.837288"
+           y="107.93626"
+           id="text1018-97-5-3-1-6"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-0-4-1"
+             x="-65.837288"
+             y="107.93626"
+             style="stroke-width:0.82433552">RX</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-73.085281"
+           y="125.95967"
+           id="text1018-97-5-2-6-0-0"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-54-8-6-61"
+             x="-73.085281"
+             y="125.95967"
+             style="stroke-width:0.82433552">RST</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-65.972336"
+           y="88.52272"
+           id="text1018-97-5-7-8-8-5"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-4-4-9-9"
+             x="-65.972336"
+             y="88.52272"
+             style="stroke-width:0.82433552">TX</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+           x="-74.655952"
+           y="141.03195"
+           id="text1018-97-5-2-6-0-2-4"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1016-3-5-54-8-6-6-9"
+             x="-74.655952"
+             y="141.03195"
+             style="stroke-width:0.82433552">GND</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="matrix(0,-3.1155981,3.1155981,0,-265.4487,1003.1366)"
+         id="g1768-0">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90085"
+           y="85.990707"
+           id="text1650-91"><tspan
+             sodipodi:role="line"
+             id="tspan1648-7"
+             x="265.90085"
+             y="85.990707"
+             style="stroke-width:0.26458332">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.89648"
+           y="91.700859"
+           id="text1654-7"><tspan
+             sodipodi:role="line"
+             id="tspan1652-1"
+             x="265.89648"
+             y="91.700859"
+             style="stroke-width:0.26458332">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90292"
+           y="97.337425"
+           id="text1658-1"><tspan
+             sodipodi:role="line"
+             id="tspan1656-5"
+             x="265.90292"
+             y="97.337425"
+             style="stroke-width:0.26458332">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90295"
+           y="103.00475"
+           id="text1662-97"><tspan
+             sodipodi:role="line"
+             id="tspan1660-7"
+             x="265.90295"
+             y="103.00475"
+             style="stroke-width:0.26458332">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.89658"
+           y="108.62177"
+           id="text1666-6"><tspan
+             sodipodi:role="line"
+             id="tspan1664-7"
+             x="265.89658"
+             y="108.62177"
+             style="stroke-width:0.26458332">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90295"
+           y="114.36157"
+           id="text1670-3"><tspan
+             sodipodi:role="line"
+             id="tspan1668-65"
+             x="265.90295"
+             y="114.36157"
+             style="stroke-width:0.26458332">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90085"
+           y="119.99553"
+           id="text1674-6"><tspan
+             sodipodi:role="line"
+             id="tspan1672-3"
+             x="265.90085"
+             y="119.99553"
+             style="stroke-width:0.26458332">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.90085"
+           y="125.6845"
+           id="text1678-9"><tspan
+             sodipodi:role="line"
+             id="tspan1676-4"
+             x="265.90085"
+             y="125.6845"
+             style="stroke-width:0.26458332">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="265.89859"
+           y="131.3481"
+           id="text1682-8"><tspan
+             sodipodi:role="line"
+             id="tspan1680-1"
+             x="265.89859"
+             y="131.3481"
+             style="stroke-width:0.26458332">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.57523"
+           y="137.02016"
+           id="text1686-2"><tspan
+             sodipodi:role="line"
+             id="tspan1684-9"
+             x="264.57523"
+             y="137.02016"
+             style="stroke-width:0.26458332">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.80865"
+           y="142.69009"
+           id="text1690-3"><tspan
+             sodipodi:role="line"
+             id="tspan1688-9"
+             x="264.80865"
+             y="142.69009"
+             style="stroke-width:0.26458332">11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.58603"
+           y="148.39813"
+           id="text1694-0"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8"
+             x="264.58603"
+             y="148.39813"
+             style="stroke-width:0.26458332">12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.29788"
+           y="155.10361"
+           id="text1694-0-6"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-2"
+             x="264.29788"
+             y="155.10361"
+             style="stroke-width:0.26458332">13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.43152"
+           y="160.58264"
+           id="text1694-0-9"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-1"
+             x="264.43152"
+             y="160.58264"
+             style="stroke-width:0.26458332">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="264.56516"
+           y="164.85895"
+           id="text1694-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-7"
+             x="264.56516"
+             y="164.85895"
+             style="stroke-width:0.26458332">15</tspan></text>
+      </g>
+      <g
+         style="stroke-width:3.11559796"
+         transform="matrix(0,-3.1155981,3.1155981,0,-387.07869,984.47992)"
+         id="g1794-8">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.43027"
+           y="118.78654"
+           id="text1702-9"><tspan
+             sodipodi:role="line"
+             id="tspan1700-6"
+             x="279.43027"
+             y="122.70237"
+             style="stroke-width:0.26458332" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.70905"
+           y="204.37132"
+           id="text1706-3"><tspan
+             sodipodi:role="line"
+             id="tspan1704-8"
+             x="279.70905"
+             y="204.37132"
+             style="stroke-width:0.26458332">30</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.97427"
+           y="124.05647"
+           id="text1710-5"><tspan
+             sodipodi:role="line"
+             id="tspan1708-6"
+             x="279.97427"
+             y="124.05647"
+             style="stroke-width:0.26458332">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.00812"
+           y="129.57231"
+           id="text1714-1"><tspan
+             sodipodi:role="line"
+             id="tspan1712-1"
+             x="280.00812"
+             y="129.57231"
+             style="stroke-width:0.26458332">17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.97214"
+           y="135.11346"
+           id="text1718-5"><tspan
+             sodipodi:role="line"
+             id="tspan1716-9"
+             x="279.97214"
+             y="135.11346"
+             style="stroke-width:0.26458332">18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.97412"
+           y="140.64403"
+           id="text1722-8"><tspan
+             sodipodi:role="line"
+             id="tspan1720-4"
+             x="279.97412"
+             y="140.64403"
+             style="stroke-width:0.26458332">19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.19193"
+           y="146.18307"
+           id="text1726-8"><tspan
+             sodipodi:role="line"
+             id="tspan1724-1"
+             x="280.19193"
+             y="146.18307"
+             style="stroke-width:0.26458332">20</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.42538"
+           y="151.75812"
+           id="text1730-0"><tspan
+             sodipodi:role="line"
+             id="tspan1728-3"
+             x="280.42538"
+             y="151.75812"
+             style="stroke-width:0.26458332">21</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.20276"
+           y="157.29715"
+           id="text1734-0"><tspan
+             sodipodi:role="line"
+             id="tspan1732-4"
+             x="280.20276"
+             y="157.29715"
+             style="stroke-width:0.26458332">22</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.19223"
+           y="162.80069"
+           id="text1738-4"><tspan
+             sodipodi:role="line"
+             id="tspan1736-4"
+             x="280.19223"
+             y="162.80069"
+             style="stroke-width:0.26458332">23</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.17773"
+           y="168.36888"
+           id="text1742-4"><tspan
+             sodipodi:role="line"
+             id="tspan1740-7"
+             x="280.17773"
+             y="168.36888"
+             style="stroke-width:0.26458332">24</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.18289"
+           y="174.68579"
+           id="text1694-0-0"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-9"
+             x="280.18289"
+             y="174.68579"
+             style="stroke-width:0.26458332">25</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.18289"
+           y="181.88593"
+           id="text1694-0-3"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-6"
+             x="280.18289"
+             y="181.88593"
+             style="stroke-width:0.26458332">26</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="279.92096"
+           y="188.29501"
+           id="text1694-0-06"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-26"
+             x="279.92096"
+             y="188.29501"
+             style="stroke-width:0.26458332">27</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.01855"
+           y="193.64253"
+           id="text1694-0-3-7"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-6-9"
+             x="280.01855"
+             y="193.64253"
+             style="stroke-width:0.26458332">28</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="280.15216"
+           y="198.98792"
+           id="text1694-0-06-2"><tspan
+             sodipodi:role="line"
+             id="tspan1692-8-26-0"
+             x="280.15216"
+             y="198.98792"
+             style="stroke-width:0.26458332">29</tspan></text>
+      </g>
+      <g
+         id="g3074-6"
+         transform="translate(134.91486,194.85284)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.30193043px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:Caladea;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433534"
+           x="26.016724"
+           y="61.84433"
+           id="text1452-5-3"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="26.016724"
+             y="61.84433"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534"
+             id="tspan1926-7"> 5V/3.3V</tspan><tspan
+             sodipodi:role="line"
+             x="26.016724"
+             y="79.721741"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534"
+             id="tspan2977"> (7~12V)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.85718346px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:Caladea;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433534"
+           x="30.076027"
+           y="-98.462555"
+           id="text1452-5-4-5"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1450-0-8-96"
+             x="30.076027"
+             y="-98.462555"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534">NUCLEO</tspan><tspan
+             sodipodi:role="line"
+             x="30.076027"
+             y="-82.391075"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534"
+             id="tspan3142">F303KB</tspan><tspan
+             sodipodi:role="line"
+             x="30.076027"
+             y="-66.319595"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534"
+             id="tspan3144">(Arduino </tspan><tspan
+             sodipodi:role="line"
+             x="30.076027"
+             y="-50.248116"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.82433534"
+             id="tspan4631-2">Nano  eX) </tspan></text>
+      </g>
+      <g
+         id="g2984"
+         transform="translate(-15.897896,12.36503)">
+        <rect
+           transform="rotate(-90)"
+           y="16.282692"
+           x="-148.61853"
+           height="10.825157"
+           width="21.650316"
+           id="rect991"
+           style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5577991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <text
+           transform="rotate(-90)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.16879082px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433534"
+           x="-147.86034"
+           y="26.118328"
+           id="text1452-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan1450-4-6"
+             x="-147.86034"
+             y="26.118328"
+             style="stroke-width:0.82433534">LED</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660084px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433528"
+         x="-246.86211"
+         y="-2.2918701"
+         id="text1018-8-9"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-4-7"
+           x="-246.86211"
+           y="-2.2918701"
+           style="stroke-width:0.82433528">D1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660275px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-246.74931"
+         y="14.914215"
+         id="text1018-7-5-3"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-5-0-6"
+           x="-246.74931"
+           y="14.914215"
+           style="stroke-width:0.82433552">D0</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 246.42686,55.1393 5.41257,-25.81382"
+         id="path2196"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 227.0665,247.49404 5.41258,-25.81383"
+         id="path2196-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 247.46775,246.66135 5.41257,-25.81385"
+         id="path2196-6"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-27.992983"
+         y="262.1825"
+         id="text1018-97-5-2-6-7-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-5"
+           x="-27.992983"
+           y="262.1825"
+           style="stroke-width:0.82433552">SCK</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-278.07788"
+         y="250.81491"
+         id="text1018-97-5-2-6-7-3"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-56"
+           x="-278.07788"
+           y="250.81491"
+           style="stroke-width:0.82433552">MISO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-278.50769"
+         y="229.47729"
+         id="text1018-97-5-2-6-7-2"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-9"
+           x="-278.50769"
+           y="229.47729"
+           style="stroke-width:0.82433552">MOSI</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 142.02651,55.24025 147.43908,29.4264"
+         id="path2196-1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 84.778112,57.32203 5.41257,-25.81382"
+         id="path2196-3-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 104.76302,56.07299 5.41257,-25.81386"
+         id="path2196-6-9"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-28.093966"
+         y="157.78221"
+         id="text1018-97-5-2-6-7-7-3"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-5-1"
+           x="-28.093966"
+           y="157.78221"
+           style="stroke-width:0.82433552">SEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-26.285769"
+         y="117.68634"
+         id="text1018-97-5-2-6-7-3-9"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-56-4"
+           x="-26.285769"
+           y="117.68634"
+           style="stroke-width:0.82433552">MISO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-26.715578"
+         y="97.181396"
+         id="text1018-97-5-2-6-7-2-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-9-8"
+           x="-26.715578"
+           y="97.181396"
+           style="stroke-width:0.82433552">MOSI</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.82433528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 123.55649,55.31081 5.41257,-25.81384"
+         id="path2196-1-4"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.77660465px;line-height:1.25;font-family:'Baekmuk Dotum';-inkscape-font-specification:'Baekmuk Dotum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82433552"
+         x="-28.164507"
+         y="139.31219"
+         id="text1018-97-5-2-6-7-7-3-5"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1016-3-5-54-8-2-5-1-0"
+           x="-28.164507"
+           y="139.31219"
+           style="stroke-width:0.82433552">SCK</tspan></text>
+    </g>
+  </g>
+</svg>
