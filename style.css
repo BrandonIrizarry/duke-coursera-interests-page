@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, GhostWhite 10%, #c9fcfc 50%, cyan);
+    margin-left: 5%;
+}
+
+td {
+    text-align: center;
+}
+
+p, li {
+    width: 50%;
+}
+
+li {
+    padding: 1px 20px;
+    border-radius: 10px;
+}
+
+li:nth-child(odd) {
+    background-color: #efefef;
+}
+
+li:nth-child(even) {
+    background-color: #dfdfdf;
+}
+
+.image-svg {
+    width: 200px;
+    height: auto;
+}
